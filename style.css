@@ -1,0 +1,299 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.new-year{
+  background-image: url(images/Banner\ Image.png);
+  width: 1320px;
+  height: 600px;
+  align-items: center;
+  margin:auto;
+  border: 2px solid black;
+  border-radius: 20px;
+
+}
+
+
+.new-year p{
+    color: white;
+    font-size: 40px;
+    padding-top: 100px;
+    padding-left: 100px;
+    text-align: center;
+   margin-bottom: 10px;
+}
+
+.new-year h1{
+    font-size: 80px;
+    font-weight: 900;
+    color: white;
+    padding-top: 5px;
+    padding-left: 100px;
+    text-align: center;
+    margin-top: 10px; 
+}
+
+.off{
+    width: 802.9px;
+    height: 806px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.class-1{
+    text-align: center;
+}
+.red{
+    color: #FF0000;
+    font-size: 80px;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+.details-red{
+    color: #FF0000;
+    margin: 0px;
+}
+.class-2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 200px;
+    height: 500px;
+    width: 500px;
+}
+
+.black{
+    font-size: 30px;
+    text-align: center;
+}
+.middle{
+    background-image: url(images/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    align-items: center;
+    margin:auto;
+    /* border: 2px solid black; */
+    border-radius: 20px;
+    color: white;
+  }
+
+.welcome{
+    font-size: 80px;
+    padding: auto;
+    margin-left: 100px;
+    padding-top: 100px;
+    margin-bottom: 5px;
+  }
+
+.party>p, h3{
+    padding: auto;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+.party>h3 {
+    width: 103px;
+    height: 24px;
+    margin-top: 50px;
+    margin-left: 135px
+}
+.join{
+  background-color: #FFE6E6;
+  width: 1320px;
+  height: 482px;
+  align-items: center;
+  text-align: center;
+  border-radius: 20px;
+  margin-top: 40px;
+  margin-left: 80px;
+  justify-content: center;
+  align-items: center;
+}
+
+.join span{
+    color:#FF0000
+}
+.night{  
+    text-align: center;
+    padding-top:120px;
+}
+
+.join button{
+    font-size: 15px;
+    font-weight: 600;
+    padding:10px;
+    width: 167px;
+    height: 56px;
+    background-color: #FF0000;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.three{
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+    width: 1320px;
+    height: 420px;
+    margin-left: 80px;
+
+}
+.first{
+    width: 33%;
+    display: block;
+    align-items: center;
+    margin-left: 30px;
+}
+.Second{
+    width: 33%;
+    display: block;
+    align-items: center;
+}
+.third{
+    margin-top: 10px;
+    width: 33%;
+    display: block;
+    align-items: center;
+}
+.red1{
+   color: red;
+   font-size: 20px;
+   margin-bottom: 10px;
+}
+.first>h1{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.third h1{
+    font-size: 60px;
+    color: red;
+}
+
+.gift{
+    width: 1320px;
+    height: 1163px;
+    align-items: center; 
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 80px;
+    justify-content: center;
+    align-items: center;  
+}
+.best h3{
+    margin: 0%;
+    font-size: 20px;
+    color: #FF0000;
+}
+.best h1{
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.images{
+    display: flex;
+    width: 424px;
+    height:450px;
+}
+.images img{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    transition: width 2s, height 2s, transform 2s;
+}
+.images img:hover{
+    transform: rotate(360deg);
+}
+.subscriber{
+    background-color: #FFE6E6;
+    width: 1320px;
+  height: 480px;
+  align-items: center;
+  text-align: center;
+  border-radius: 20px;
+  margin-left: 80px;
+  justify-content: center;
+  align-items: center;
+  padding-top: 200px;
+}
+
+.subscriber input, button{
+    margin: 0%;
+    border: none;
+    height: 72px;
+    border-collapse: collapse;
+    border-radius: 20px;
+}
+.subscriber input{
+    width: 418px;
+    padding-left: 25px;
+}
+.subscriber img{
+    width: 150px;
+    height: 150px;
+}
+.subscriber button{
+         background-color: red;
+         width: 210px;
+         color: white;
+         font-weight: 600;
+        
+}
+
+.black-last{
+    width: 1600px;
+    height: 309px;
+    margin-top: 60px;
+    background-color: black;
+    color: white;
+    align-items: center;
+  text-align: center;
+}
+.wid{
+    width: 1300px;
+    height: 309px;
+    margin-left: 150px;
+}
+.address{
+    width: 1185px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 300px;
+}
+.nice{
+    display: inline-block;
+    margin-top: 10px;
+    padding: 3px;
+}
+.nice span{
+    padding-left: 10px;
+}
+.nice img{
+    vertical-align: middle;
+}
+
+.flexible{
+    width:328px ;
+    height:64px ;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 500px;
+    margin-right: 100px;
+
+}
+.toto{
+    width: 1185px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 300px;
+}
+.toto a{
+    text-decoration: none;
+    color: white;
+}
