@@ -153,7 +153,8 @@ body {
     align-items: center;
 }
 .third{
-    margin-top: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
     width: 33%;
     display: block;
     align-items: center;
